@@ -1,0 +1,46 @@
+#rapper{
+    font-size: 18px;
+    /* padding: 30px; */
+    padding-left: 40px;
+}
+#head1{
+    padding: 10px;
+    color:blue;
+    outline: 1ch solid;
+    outline-color:red;
+}
+#ffb{
+    color:gold;
+    width: 100%;
+}
+
+#subhead{
+    color:purple;
+    outline: 1ch solid;
+    outline-color:red;
+    display: inline-block;
+}
+#rant{
+    color:darkblue;
+}
+
+#lower{
+    color:rgb(6, 22, 14);
+    display: inline-block;
+    outline:1ch solid;
+    outline-color: aqua;
+}
+#lower2{
+    color:rgb(6, 22, 14);
+    display: inline-block;
+    outline:1ch solid;
+    outline-color: aqua;
+}
+/* worth a try */
+/* *{
+    color:blue;
+    outline: 2px dotted;
+    outline-color: rebeccapurple;
+} */
+
+/* works! */
