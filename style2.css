@@ -6,8 +6,8 @@
 #head1{
     padding: 10px;
     color:blue;
-    outline: 1ch solid;
-    outline-color:red;
+    /* outline: 1ch solid; */
+    /* outline-color:red; */
 }
 #ffb{
     color:gold;
@@ -16,8 +16,8 @@
 
 #subhead{
     color:purple;
-    outline: 1ch solid;
-    outline-color:red;
+    /* outline: 1ch solid; */
+    /* outline-color:red; */
     display: inline-block;
 }
 #rant{
