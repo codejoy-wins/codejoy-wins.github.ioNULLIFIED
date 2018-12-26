@@ -2,7 +2,9 @@ body{
     background-color:black;
 }
 #inside-f{
-    background-color: #b71c1c;
+    /* background-color: #b71c1c; */
+    background-color: blanchedalmond;
+
     position:fixed;
 }
 #footer{
