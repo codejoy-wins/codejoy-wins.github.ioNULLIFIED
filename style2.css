@@ -12,8 +12,12 @@ body{
     background-image: url(./images/jann.jpg);
     height: 410px;
     margin: 25px;
+    text-align: center;
 }
-
+#further{
+    margin-top: 10px;
+    padding-top: 40px;
+}
 #head1{
 
     padding: 10px;
