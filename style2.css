@@ -2,8 +2,20 @@
     font-size: 18px;
     /* padding: 30px; */
     padding-left: 40px;
+    margin: 0 auto;
 }
+body{
+    /* background-image: url(./images/jann.jpg); */
+    font-size: 100%;
+}
+#intro{
+    background-image: url(./images/jann.jpg);
+    height: 410px;
+    margin: 25px;
+}
+
 #head1{
+
     padding: 10px;
     color:blue;
     /* outline: 1ch solid; */
@@ -36,11 +48,9 @@
     outline:1ch solid;
     outline-color: aqua;
 }
-/* worth a try */
-/* *{
-    color:blue;
-    outline: 2px dotted;
-    outline-color: rebeccapurple;
-} */
 
-/* works! */
+.description{
+    font-size: 2ch;
+    text-emphasis: none;
+    font-weight: normal;
+}
