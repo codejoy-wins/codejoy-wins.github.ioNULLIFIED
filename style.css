@@ -190,3 +190,9 @@ body{
 #bottom{
     padding: 16px;
 }
+#new a{
+    text-decoration: none;
+    color:whitesmoke;
+
+}
+/* hover not working on new a */
