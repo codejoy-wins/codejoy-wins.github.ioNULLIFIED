@@ -16,8 +16,8 @@ body{
     opacity: .8;
 }
 #linked{
-    width:3%;
-    margin-left: 5%;
+    width:2.8%;
+    margin-left: 4.8%;
 }
 #mad{
     text-align: center;
@@ -64,6 +64,7 @@ body{
     font-family: 'Roboto', sans-serif;
     width: 100%;
     height: auto;
+    text-align: center;
 }
 #spacer{
     height:44px;
