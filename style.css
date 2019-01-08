@@ -62,6 +62,8 @@ body{
 #wrapper{
     background-color:white;
     font-family: 'Roboto', sans-serif;
+    width: 100%;
+    height: auto;
 }
 #spacer{
     height:44px;
